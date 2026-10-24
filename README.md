@@ -2,7 +2,7 @@
 
 A 2-bit full adder built using TTL logic ICs on a breadboard. Two 2-bit binary numbers are entered through a DIP switch bank, and the resulting sum is displayed on an LED output module.
 
-![Breadboard]([images/breadboard.jpg](https://raw.githubusercontent.com/nickhann/Full-2-bit-adders/refs/heads/main/Images/2-Bit%20Addder.jpg?token=GHSAT0AAAAAAENVAF26XCBW2SIJRKO6DMSC2W5F2LA))
+![Breadboard](images/breadboard.jpg](https://raw.githubusercontent.com/nickhann/Full-2-bit-adders/refs/heads/main/Images/2-Bit%20Addder.jpg?token=GHSAT0AAAAAAENVAF26XCBW2SIJRKO6DMSC2W5F2LA)
 
 ---
 
